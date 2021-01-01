@@ -1,5 +1,5 @@
 Linea 1
-Linea 2
+Linea 2 -CORRECTO
 Linea 3
 Linea 10 - CORRECTO
 Linea 13 - CORRECTO
@@ -9,7 +9,12 @@ Linea 6
 Linea 7
 Linea 8 - CORRECTO
 Linea 9
+<<<<<<< HEAD
 Linea 22
 Linea 14 - CORRECTO
 Linea 15 - CORRECTO
 Linea 16 - CORRECTO
+=======
+Linea 10
+Linea 11 - INCORRECTO !!!!
+>>>>>>> main
